@@ -1,0 +1,38 @@
+# LLM Providers
+openai
+groq
+google-generativeai
+mistralai
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langgraph
+
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+
+# Tools
+tavily-python
+beautifulsoup4
+requests
+lxml
+
+# Environment
+python-dotenv
+
+# Utilities
+pydantic
+tiktoken
+httpx
+aiohttp
+tenacity
+
+# Optional UI
+streamlit
+
+# Optional notebook
+jupyter
